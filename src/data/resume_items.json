@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Mustang News",
+        "row":[
+            {
+                "title": "Contributions to Slo Music",
+                "link":"https://mustangnews.net/the-music-scene-in-slo-is-growing-but-it-may-be-leaving-cal-poly-students-out-of-mind/",
+                "link_name": "The music scene in SLO is growing, but it may be leaving Cal Poly students out of mind",
+                "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/02/DSC_2550.jpg?w=1400&ssl=1",
+                "bio": ""
+            },
+    
+            {
+                "title": "Article",
+                "link": "https://mustangnews.net/new-plant-conservatory-breaks-ground-after-being-torn-down-for-new-building/",
+                "link_name": "New plant conservatory breaks ground after being torn down for new building",
+                "image": "https://i0.wp.com/mustangnews.net/wp-content/uploads/2020/03/DSC_0207.jpg?w=1400&ssl=1",
+                "bio": ""
+            }
+        ]
+    }, 
+
+    {
+        "name": "Radio Scripts",
+        "row":[
+            {
+                "title": "Script",
+                "link":"https://docs.google.com/document/d/1PCZCY5QCJqVtEpKvxrIzxoSFcdXDxcCq_viYsecSyl8/edit?usp=sharing",
+                "link_name": "Radio Script Example",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png",
+                "bio": ""
+            }
+        ]
+    }
+]
