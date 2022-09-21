@@ -1,14 +1,17 @@
-import Header from "./Components/Header";
-import Launcher from "./Components/Launcher";
+import Hero from "./Components/Hero";
+import AboutMe from "./Components/AboutMe";
 import ResumeSection from "./Components/ResumeSection";
+
 
 
 function App() {
   return (
-    <div className="">
-      <Header />
-      <Launcher />
-    </div>
+    <>
+      <Hero />
+      <AboutMe />
+      <ResumeSection />
+     
+    </>
   );
 }
 
