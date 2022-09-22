@@ -9,14 +9,14 @@ export default function Hero() {
             <span className="block">Enriching Stories</span>
             <span className="block text-white">Journalism</span>
           </h2>
-          <div className="flex justify-center lg:mt-0 lg:flex-shrink-0">
-          
+
+          <div className="flex justify-center lg:mt-32 lg:flex-shrink-0">
             <div className="ml-3 inline-flex rounded-md shadow">
               <a
                 href="#"
                 className="inline-flex items-center justify-center rounded-md border border-transparent bg-white px-5 py-3 text-base font-medium text-green-500 hover:bg-indigo-50"
               >
-                Contact
+                About
               </a>
             </div>
           </div>

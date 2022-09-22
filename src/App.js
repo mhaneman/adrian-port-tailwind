@@ -1,6 +1,7 @@
 import Hero from "./Components/Hero";
 import AboutMe from "./Components/AboutMe";
-import ResumeSection from "./Components/ResumeSection";
+import Resume from "./Components/Resume";
+import Gallery from "./Components/Gallery";
 
 
 
@@ -9,8 +10,8 @@ function App() {
     <>
       <Hero />
       <AboutMe />
-      <ResumeSection />
-     
+      <Resume />
+      <Gallery />
     </>
   );
 }
