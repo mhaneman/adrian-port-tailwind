@@ -14,7 +14,7 @@ export default class Gallery extends React.Component {
   render() {
     return (
       <div>
-        <div className=" p-10 bg-blue-100 text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-9xl"> Photography </div>
+        <div className=" p-10 bg-blue-100 text-center text-4xl font-bold tracking-tight text-gray-900 sm:text-9xl"> Marketing Gallery </div>
           <section class="overflow-hidden text-gray-700 ">
             <div class="container px-5 py-2 mx-auto lg:pt-12 lg:px-32">
               <div class="flex flex-wrap -m-1 md:-m-2">

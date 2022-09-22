@@ -3,7 +3,7 @@ import React from 'react'
 function ArticlePreview({link, link_name, date, image}) {
   return (
     <a className="mx-auto lg:flex lg:flex-row lg:h-auto hover:opacity-60" href={link}>
-      <img className="rounded-tr-md rounded-tl-md h-48 w-full lg:h-auto lg:w-2/5 lg:rounded-bl-md lg:rounded-tr-none" src={image} alt="" />
+      <img className="bg-white rounded-tr-md rounded-tl-md h-48 w-full lg:h-auto lg:w-2/5 lg:rounded-bl-md lg:rounded-tr-none" src={image} alt="" />
       <div className="bg-white p-8 rounded-bl-md rounded-br-md lg:rounded-bl-none lg:rounded-tr-md">
         <h2 className="text-gray-700 font-semibold">{link_name}</h2>
         <div className="flex items-center mt-8">
