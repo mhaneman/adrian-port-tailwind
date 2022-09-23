@@ -19,7 +19,8 @@ export default function Resume() {
                     link = {item.link}
                     link_name = {item.link_name}
                     image = {item.image}
-                    date = "Jan 1 2019"
+                    date = {item.date}
+                    publisher = {item.publisher}
                   />
                 ))
               }

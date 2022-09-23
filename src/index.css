@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+
+    .button-primary {
+        @apply inline-flex items-center justify-center 
+        rounded-md border border-transparent px-5 py-3 text-lg
+        font-medium text-black bg-green-300 hover:bg-green-100 cursor-pointer;
+
+    }
+}
